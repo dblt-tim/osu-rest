@@ -1,0 +1,14 @@
+
+# ignore env files except the example one
+.env*
+!.env.example
+
+# token file
+.token.json
+
+# js build directory
+dist
+
+# other
+node_modules
+package-lock.json
