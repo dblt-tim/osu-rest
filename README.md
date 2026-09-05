@@ -5,12 +5,13 @@
 # Osu!Rest
 
 Exposing osu! SignalR referee hub API through a REST API http server
+> I struggled with SignalR so you don't have to
 
+___
 ***Disclaimer:** This is a community-made project, it is not affiliated with, endorsed by or associated with ppy Pty Ltd or osu!.
 Users are responsible for adhering to the [osu! API Terms Of Use](https://osu.ppy.sh/docs/#terms-of-use)
 and are familiar with the fact that exceeding the API limitations may lead to your access token being revoked or even restricted*
-
-> I struggled with SignalR so you don't have to
+___
 
 ## Useful links
 
