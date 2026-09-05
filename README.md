@@ -4,16 +4,17 @@
 
 # Osu!Rest
 
+Exposing osu! SignalR referee hub API through a REST API http server
+
 ***Disclaimer:** This is a community-made project, it is not affiliated with, endorsed by or associated with ppy Pty Ltd or osu!.
 Users are responsible for adhering to the [osu! API Terms Of Use](https://osu.ppy.sh/docs/#terms-of-use)
 and are familiar with the fact that exceeding the API limitations may lead to your access token being revoked or even restricted*
 
 > I struggled with SignalR so you don't have to
-- Tim
 
 ## Useful links
 
-the osu!web documentation : https://osu.ppy.sh/docs
+the osu!web documentation : https://osu.ppy.sh/docs  
 the osu!spectator referee hub documentation : https://ppy.sh/osu-server-spectator/referee-hub-api.html
 
 > [!IMPORTANT]
@@ -27,7 +28,7 @@ the osu!spectator referee hub documentation : https://ppy.sh/osu-server-spectato
 - [ ] handle requests
 - [ ] send events
 
-# how to run
+# How to run
 
 For the people who are unfamiliar with nodeJS, after cloning the repository run :
 ```bash
