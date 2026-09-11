@@ -24,7 +24,7 @@ the osu!spectator referee hub documentation : https://ppy.sh/osu-server-spectato
 # Roadmap
 
 - [x] handling osu! authentication process
-- [ ] locally store the access token and handle token refresh
+- [x] locally store the access token and handle token refresh
 - [ ] connect to the spectator hub via SignalR
 - [ ] handle requests
 - [ ] send events
